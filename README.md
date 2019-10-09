@@ -59,6 +59,6 @@ Participants will also need to install ggplot2 and lme4. A walk through of packa
 
 ## DATA AND CODE TO DOWNLOAD:
 
-Github code and data to be updated - follow us on Twitter for updates @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
+Github code and data to be updated by Monday Oct 14. It can be added here to this Github repository once available. Follow us on Twitter for updates: @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
 
-Optional: ATLAS Stroke MRI and Lesion Mask Dataset: http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html
+Optional: ATLAS Stroke MRI and Lesion Mask Dataset: http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html (Please allow at least 1 day for processing).
