@@ -38,6 +38,8 @@ Keep in touch with us on twitter and ask us any questions - let’s keep this co
 
 Install Python version 3.7 and Jupyter Notebook using the Anaconda distribution: https://www.anaconda.com/distribution/
 
+If for some reason you install Python separately, you should install Jupyter Notebook from here: https://jupyter.org/install
+
 You will also need these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to do pip install library for the following:
 
 Pandas - https://pandas.pydata.org/pandas-docs/stable/install.html
