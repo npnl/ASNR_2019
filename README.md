@@ -37,8 +37,11 @@ Keep in touch with us on twitter and ask us any questions - let’s keep this co
 ## Data Management with Python:
 
 Install Python version 3.7 and Jupyter Notebook using the Anaconda distribution: https://www.anaconda.com/distribution/
+
 You will also need these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to do pip install library for the following:
+
 Pandas - https://pandas.pydata.org/pandas-docs/stable/install.html
+
 Scipy/Numpy - https://scipy.org/install.html
 
 
@@ -48,14 +51,14 @@ Version - 2016a and above (Download from matlab page: https://www.mathworks.com/
 
 ## Data Visualization with R:
 Any version of R will likely be satisfactory, but attendees are encouraged to install the latest version, 3.6.1. 
-A walk through of R installation here: https://vimeo.com/201690416
-Participants will also need to install ggplot2 and lme4. 
-A walk through of package installation: https://vimeo.com/201696152 
+
+A walk through of R installation can be found here: https://vimeo.com/201690416
+
+Participants will also need to install ggplot2 and lme4. A walk through of package installation: https://vimeo.com/201696152 
 
 
 ## DATA AND CODE TO DOWNLOAD:
 
 Github code and data to be updated - follow us on Twitter for updates @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
-Code will be posted here: https://github.com/keithlohse/ASNR
 
 Optional: ATLAS Stroke MRI and Lesion Mask Dataset: http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html
