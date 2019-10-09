@@ -18,9 +18,13 @@ Please install the following software (listed below) from good, reliable wifi! :
 12:15 - 1 pm	Troubleshooting - Keith, James, and Lei will be on hand to help troubleshoot and answer any install questions
 
 1 - 1:15	Introduction to Reliability and Reproducibility in Neurorehab Research (Lei)
+
 1:15 - 1:45	Data Management - Best practices and a hands-on tutorial in Python (Lei)
+
 1:45 - 2:15	Data Analysis - Best practices and a hands-on tutorial in Matlab (James)
+
 2:15 - 2:45	Data Visualization - Best practices and a hands-on tutorial in R (Keith)
+
 2:45 - 3	Questions and Discussion
 
 
@@ -28,7 +32,7 @@ Please install the following software (listed below) from good, reliable wifi! :
 Keep in touch with us on twitter and ask us any questions - let’s keep this conversation going! - @NPNLatUSC, @JamesMFinley, @Keith_Lohse
 
 
-## Software to install:
+# SOFTWARE TO INSTALL:
 
 ## Data Management with Python:
 
@@ -49,7 +53,7 @@ Participants will also need to install ggplot2 and lme4.
 A walk through of package installation: https://vimeo.com/201696152 
 
 
-## Data and code to download:
+# DATA AND CODE TO DOWNLOAD:
 
 Github code and data to be updated - follow us on Twitter for updates @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
 Code will be posted here: https://github.com/keithlohse/ASNR
