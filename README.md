@@ -32,7 +32,7 @@ Please install the following software (listed below) from good, reliable wifi! :
 Keep in touch with us on twitter and ask us any questions - let’s keep this conversation going! - @NPNLatUSC, @JamesMFinley, @Keith_Lohse
 
 
-# SOFTWARE TO INSTALL:
+## SOFTWARE TO INSTALL:
 
 ## Data Management with Python:
 
@@ -53,7 +53,7 @@ Participants will also need to install ggplot2 and lme4.
 A walk through of package installation: https://vimeo.com/201696152 
 
 
-# DATA AND CODE TO DOWNLOAD:
+## DATA AND CODE TO DOWNLOAD:
 
 Github code and data to be updated - follow us on Twitter for updates @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
 Code will be posted here: https://github.com/keithlohse/ASNR
