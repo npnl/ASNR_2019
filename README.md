@@ -40,16 +40,18 @@ Install Python version 3.7 and Jupyter Notebook using the Anaconda distribution:
 
 If for some reason you install Python separately, you should install Jupyter Notebook from here: https://jupyter.org/install
 
-You will also need these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to do pip install library for the following:
+You will also need these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to use pip install for the following:
 
 Pandas - https://pandas.pydata.org/pandas-docs/stable/install.html
 
 Scipy/Numpy - https://scipy.org/install.html
 
+More on pip install (which you should run from a terminal): https://pip.pypa.io/en/stable/
+
 
 ## Data Analysis with Matlab:
 Version - 2016a and above (Download from matlab page: https://www.mathworks.com/downloads/web_downloads/)
-
+Note: Unlike Python and R, Matlab costs money. But most universities have a licensing agreement. You can contact your department IT to see if it is available. 
 
 ## Data Visualization with R:
 Any version of R will likely be satisfactory, but attendees are encouraged to install the latest version, 3.6.1. 
