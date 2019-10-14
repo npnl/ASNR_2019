@@ -2,7 +2,10 @@
 
 Sook-Lei Liew (sliew@usc.edu), James M. Finley (jmfinley@pt.usc.edu), Keith Lohse (Keith.Lohse@health.utah.edu) 
 
-This github repository has information and materials for the American Society for Neurorehabilitation Meeting - Symposium on Reliability and Reproducibility in Neurorehabilitation. Code to be updated by Monday October 14.
+This github repository has information and materials for the American Society for Neurorehabilitation Meeting - Symposium on Reliability and Reproducibility in Neurorehabilitation. Code is now updated! If you're new to github, you can click the "clone or download" button on this repository to download a zip file. 
+
+Also, if you plan to attend, please help us tailor this symposium to your needs by filling out this super quick survey:
+https://forms.gle/wesLsNyKwG9h1mTY9 - Thanks!
 
 ## FORMAT
 
@@ -38,9 +41,11 @@ Keep in touch with us on twitter and ask us any questions - let’s keep this co
 
 Install Python version 3.7 and Jupyter Notebook using the Anaconda distribution: https://www.anaconda.com/distribution/
 
-If for some reason you install Python separately, you should install Jupyter Notebook from here: https://jupyter.org/install
+If for some reason you install Python separately (highly unadvised!), you should:
 
-You will also need these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to use pip install for the following:
+-install Jupyter Notebook from here: https://jupyter.org/install
+
+-also install these additional libraries, which should be included if you used the Anaconda distribution (e.g., you shouldn’t need to do anything else), but if you get an error, you will need to use pip install for the following:
 
 Pandas - https://pandas.pydata.org/pandas-docs/stable/install.html
 
@@ -63,6 +68,6 @@ Participants will also need to install ggplot2 and lme4. A walk through of packa
 
 ## DATA AND CODE TO DOWNLOAD:
 
-Github code and data to be updated by Monday Oct 14. It can be added here to this Github repository once available. Follow us on Twitter for updates: @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
+Github code and data is now updated on this Github repository. Follow us on Twitter for updates: @NPNLatUSC, @JamesMFinley, @Keith_Lohse!
 
 Optional: ATLAS Stroke MRI and Lesion Mask Dataset: http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html (Please allow at least 1 day for processing).
